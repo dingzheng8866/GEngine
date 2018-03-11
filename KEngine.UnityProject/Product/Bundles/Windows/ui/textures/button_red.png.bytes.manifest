@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2851753444
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c8b9f61ea99267399909658d11ac95e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleResources/UI/Textures/button_red.png
+Dependencies: []

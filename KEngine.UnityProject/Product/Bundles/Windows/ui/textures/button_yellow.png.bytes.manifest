@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3995301334
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3daa7b66f9c5e948470565bea8ceac97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleResources/UI/Textures/button_yellow.png
+Dependencies: []

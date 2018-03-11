@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1182707548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cae77d7a40309b163657ea6aaf273126
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae2f8f3f89333d2930ea0d1c7ce32061
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+Assets:
+- Assets/BundleResources/NGUI/Atlas/CommonUIAtlas.prefab
+Dependencies:
+- D:/myproject/study/KSFramework/KEngine/KEngine.UnityProject/Product/Bundles/Windows/ngui/atlas/commonuiatlas.mat.bytes
