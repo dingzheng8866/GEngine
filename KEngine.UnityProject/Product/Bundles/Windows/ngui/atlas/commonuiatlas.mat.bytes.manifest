@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2676854067
+CRC: 2113316055
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4ddf49ff719c8430e5a772b21808fcbe
+    Hash: 213ec93cf9af4fe43acd035ba6f48909
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9b71393b2ee9cb5c4f2e835e78d3d8d4
@@ -14,4 +14,4 @@ ClassTypes:
 Assets:
 - Assets/BundleResources/NGUI/Atlas/CommonUIAtlas.mat
 Dependencies:
-- D:/myproject/study/KSFramework/KEngine/KEngine.UnityProject/Product/Bundles/Windows/ngui/atlas/commonuiatlas.png.bytes
+- D:/myproject/study/test1/GEngine/KEngine.UnityProject/Product/Bundles/Windows/ngui/atlas/commonuiatlas.png.bytes

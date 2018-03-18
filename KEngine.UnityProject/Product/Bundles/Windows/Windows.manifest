@@ -1,54 +1,81 @@
 ManifestFileVersion: 0
-CRC: 482068993
+CRC: 2702565143
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: ngui/testngui.unity.bytes
-      Dependencies:
-        Dependency_0: ui/textures/button_red.png.bytes
-        Dependency_1: ngui/atlas/commonuiatlas.prefab.bytes
-        Dependency_2: consola.ttf.bytes
-    Info_1:
-      Name: ui/textures/button_green_border.png.bytes
-      Dependencies: {}
-    Info_2:
-      Name: ui/textures/button_green.png.bytes
-      Dependencies: {}
-    Info_3:
-      Name: ui/textures/button_red.png.bytes
-      Dependencies: {}
-    Info_4:
-      Name: ui/textures/button_yellow.png.bytes
-      Dependencies: {}
-    Info_5:
-      Name: ngui/atlas/commonuiatlas.png.bytes
-      Dependencies: {}
-    Info_6:
-      Name: ngui/atlas/commonuiatlas.prefab.bytes
-      Dependencies:
-        Dependency_0: ngui/atlas/commonuiatlas.mat.bytes
-    Info_7:
-      Name: ui/demohome.prefab.bytes
-      Dependencies:
-        Dependency_0: ui/textures/button_green.png.bytes
-        Dependency_1: ui/textures/button_red.png.bytes
-        Dependency_2: ui/textures/button_yellow.png.bytes
-    Info_8:
-      Name: ngui/atlas/commonuiatlas.mat.bytes
-      Dependencies:
-        Dependency_0: ngui/atlas/commonuiatlas.png.bytes
-    Info_9:
-      Name: consola.ttf.bytes
-      Dependencies: {}
-    Info_10:
       Name: ui/demohome.unity.bytes
       Dependencies:
         Dependency_0: ui/textures/button_green.png.bytes
         Dependency_1: ui/textures/button_red.png.bytes
         Dependency_2: ui/textures/button_yellow.png.bytes
         Dependency_3: ui/testwindow1.prefab.bytes
-    Info_11:
+    Info_1:
+      Name: ngui/testngui.unity.bytes
+      Dependencies:
+        Dependency_0: ui/textures/button_red.png.bytes
+        Dependency_1: ngui/atlas/commonuiatlas.prefab.bytes
+        Dependency_2: consola.ttf.bytes
+    Info_2:
+      Name: ui/textures/button_green_border.png.bytes
+      Dependencies: {}
+    Info_3:
+      Name: ui/textures/button_green.png.bytes
+      Dependencies: {}
+    Info_4:
+      Name: ui/textures/button_red.png.bytes
+      Dependencies: {}
+    Info_5:
+      Name: ui/textures/button_yellow.png.bytes
+      Dependencies: {}
+    Info_6:
+      Name: ngui/atlas/commonuiatlas.png.bytes
+      Dependencies: {}
+    Info_7:
+      Name: ngui/atlas/commonuiatlas.prefab.bytes
+      Dependencies:
+        Dependency_0: ngui/atlas/commonuiatlas.mat.bytes
+    Info_8:
+      Name: ui/demohome.prefab.bytes
+      Dependencies:
+        Dependency_0: ui/textures/button_green.png.bytes
+        Dependency_1: ui/textures/button_red.png.bytes
+        Dependency_2: ui/textures/button_yellow.png.bytes
+    Info_9:
       Name: ui/testwindow1.prefab.bytes
       Dependencies:
         Dependency_0: ui/textures/button_red.png.bytes
         Dependency_1: ui/textures/button_yellow.png.bytes
+    Info_10:
+      Name: ngui/atlas/commonuiatlas.mat.bytes
+      Dependencies:
+        Dependency_0: ngui/atlas/commonuiatlas.png.bytes
+    Info_11:
+      Name: consola.ttf.bytes
+      Dependencies: {}
+    Info_12:
+      Name: ui/enter.unity.bytes
+      Dependencies:
+        Dependency_0: ui/uirootwindow.prefab.bytes
+    Info_13:
+      Name: ui/uicamera.prefab.bytes
+      Dependencies: {}
+    Info_14:
+      Name: ui/uirootwindow.prefab.bytes
+      Dependencies: {}
+    Info_15:
+      Name: ui/wgamelaunch.prefab.bytes
+      Dependencies:
+        Dependency_0: ui/textures/company_icon1.png.bytes
+        Dependency_1: ui/textures/loading_bottom1.png.bytes
+    Info_16:
+      Name: ui/winenterload.prefab.bytes
+      Dependencies: {}
+    Info_17:
+      Name: ui/textures/bg01.png.bytes
+      Dependencies: {}
+    Info_18:
+      Name: ui/textures/company_icon1.png.bytes
+      Dependencies: {}
+    Info_19:
+      Name: ui/textures/loading_bottom1.png.bytes
+      Dependencies: {}

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4038045522
+CRC: 141692466
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 43528503060664cee98868ce87f9c6ff
+    Hash: f4f0af875d3a779b84b3d47146bbf3fe
   TypeTreeHash:
     serializedVersion: 2
     Hash: f21b2de1ab991f2019c23f44f540c88d
@@ -46,5 +46,5 @@ ClassTypes:
 Assets:
 - Assets/BundleResources/UI/TestWindow1.prefab
 Dependencies:
-- D:/myproject/study/KSFramework/KEngine/KEngine.UnityProject/Product/Bundles/Windows/ui/textures/button_red.png.bytes
-- D:/myproject/study/KSFramework/KEngine/KEngine.UnityProject/Product/Bundles/Windows/ui/textures/button_yellow.png.bytes
+- D:/myproject/study/test1/GEngine/KEngine.UnityProject/Product/Bundles/Windows/ui/textures/button_red.png.bytes
+- D:/myproject/study/test1/GEngine/KEngine.UnityProject/Product/Bundles/Windows/ui/textures/button_yellow.png.bytes

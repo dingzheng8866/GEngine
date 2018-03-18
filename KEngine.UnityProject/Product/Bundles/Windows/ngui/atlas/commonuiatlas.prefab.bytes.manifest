@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1182707548
+CRC: 4149071059
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cae77d7a40309b163657ea6aaf273126
+    Hash: 3f4281009b5c08446361f3f6bdc640ad
   TypeTreeHash:
     serializedVersion: 2
     Hash: ae2f8f3f89333d2930ea0d1c7ce32061
@@ -20,4 +20,4 @@ ClassTypes:
 Assets:
 - Assets/BundleResources/NGUI/Atlas/CommonUIAtlas.prefab
 Dependencies:
-- D:/myproject/study/KSFramework/KEngine/KEngine.UnityProject/Product/Bundles/Windows/ngui/atlas/commonuiatlas.mat.bytes
+- D:/myproject/study/test1/GEngine/KEngine.UnityProject/Product/Bundles/Windows/ngui/atlas/commonuiatlas.mat.bytes

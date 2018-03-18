@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1599905529
+CRC: 2826778798
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 198aebec61c0cb020c9d3eb8fd5d0cca
+    Hash: 680b26437c685f2cf71303bd096d1836
   TypeTreeHash:
     serializedVersion: 2
     Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
@@ -12,7 +12,7 @@ ClassTypes: []
 Assets:
 - Assets/BundleResources/UI/DemoHome.unity
 Dependencies:
-- D:/myproject/study/KSFramework/KEngine/KEngine.UnityProject/Product/Bundles/Windows/ui/textures/button_green.png.bytes
-- D:/myproject/study/KSFramework/KEngine/KEngine.UnityProject/Product/Bundles/Windows/ui/textures/button_red.png.bytes
-- D:/myproject/study/KSFramework/KEngine/KEngine.UnityProject/Product/Bundles/Windows/ui/textures/button_yellow.png.bytes
-- D:/myproject/study/KSFramework/KEngine/KEngine.UnityProject/Product/Bundles/Windows/ui/testwindow1.prefab.bytes
+- D:/myproject/study/test1/GEngine/KEngine.UnityProject/Product/Bundles/Windows/ui/textures/button_green.png.bytes
+- D:/myproject/study/test1/GEngine/KEngine.UnityProject/Product/Bundles/Windows/ui/textures/button_red.png.bytes
+- D:/myproject/study/test1/GEngine/KEngine.UnityProject/Product/Bundles/Windows/ui/textures/button_yellow.png.bytes
+- D:/myproject/study/test1/GEngine/KEngine.UnityProject/Product/Bundles/Windows/ui/testwindow1.prefab.bytes

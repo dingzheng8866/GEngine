@@ -16,8 +16,8 @@ namespace KEngine.UI
     public static class ScreenUtil
     {
 
-        public static float DEV_WIDTH = 1920f;
-        public static float DEV_HEIGHT = 1080f;
+        public static float DEV_WIDTH = 1920f; // 1920
+        public static float DEV_HEIGHT = 1080f; //1080
 
         public static UIScreenInfo uiScreenInfo
         {

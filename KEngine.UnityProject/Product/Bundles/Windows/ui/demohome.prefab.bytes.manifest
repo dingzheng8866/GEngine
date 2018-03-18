@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 756615933
+CRC: 1492514549
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: aad8f81cd8834862dd4bff29e2d695f3
+    Hash: a8c717758839c930f0af03ff4a6a8647
   TypeTreeHash:
     serializedVersion: 2
     Hash: 28b106fc4b7e03dc499147e4e2e41625
@@ -44,6 +44,6 @@ ClassTypes:
 Assets:
 - Assets/BundleResources/UI/DemoHome.prefab
 Dependencies:
-- D:/myproject/study/KSFramework/KEngine/KEngine.UnityProject/Product/Bundles/Windows/ui/textures/button_green.png.bytes
-- D:/myproject/study/KSFramework/KEngine/KEngine.UnityProject/Product/Bundles/Windows/ui/textures/button_red.png.bytes
-- D:/myproject/study/KSFramework/KEngine/KEngine.UnityProject/Product/Bundles/Windows/ui/textures/button_yellow.png.bytes
+- D:/myproject/study/test1/GEngine/KEngine.UnityProject/Product/Bundles/Windows/ui/textures/button_green.png.bytes
+- D:/myproject/study/test1/GEngine/KEngine.UnityProject/Product/Bundles/Windows/ui/textures/button_red.png.bytes
+- D:/myproject/study/test1/GEngine/KEngine.UnityProject/Product/Bundles/Windows/ui/textures/button_yellow.png.bytes
