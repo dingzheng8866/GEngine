@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b7b879fbb1b213c4284d9f773ead5902
+timeCreated: 1524828821
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/sprites-diffuse.shader.assetbundle
+  assetBundleVariant: 

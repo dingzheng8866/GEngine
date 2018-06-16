@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 05f12c1a078f7d44f8ae0657c17f12c8
+timeCreated: 1524828771
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/internal-stencilwrite.shader.assetbundle
+  assetBundleVariant: 

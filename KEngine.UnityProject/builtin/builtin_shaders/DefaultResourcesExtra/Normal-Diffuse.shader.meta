@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: bd827bf230c53cf40985f7b8a041a6a0
+timeCreated: 1524828825
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/normal-diffuse.shader.assetbundle
+  assetBundleVariant: 

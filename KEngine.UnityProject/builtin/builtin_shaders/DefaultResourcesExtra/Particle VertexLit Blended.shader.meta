@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 7e6ce8e59f7b2a145ae1de0a33e0d390
+timeCreated: 1524828805
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/particle vertexlit
+    blended.shader.assetbundle
+  assetBundleVariant: 

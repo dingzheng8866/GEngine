@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c3cb9ece88e4bfe4db14a7cd829ba87f
+timeCreated: 1524828825
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/illumin-bumpspec.shader.assetbundle
+  assetBundleVariant: 

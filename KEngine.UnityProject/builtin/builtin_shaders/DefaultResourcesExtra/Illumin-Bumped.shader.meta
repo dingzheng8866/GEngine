@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 02e7019b9bc74f94cbbf6ea3a54a7344
+timeCreated: 1524828770
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/illumin-bumped.shader.assetbundle
+  assetBundleVariant: 

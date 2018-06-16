@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 3e746d67de660ca4a807f4808b9f407a
+timeCreated: 1524828785
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/terrainshaders/details/vertexlit.shader.assetbundle
+  assetBundleVariant: 

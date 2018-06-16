@@ -2,6 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using GEngine.UI;
+
 namespace GEngine
 {
     public class GameLaunch : MonoBehaviour
@@ -40,7 +42,7 @@ namespace GEngine
             win.transform.SetParent(p.transform, false);
             win.SetActive(true);
             WGameLaunch wg = win.GetComponent<WGameLaunch>();
-            wg.StartCoroutine(wg.PlayLogoAnimation());
+            wg.StartCoroutine(wg.Launch());
         }
     }
 }

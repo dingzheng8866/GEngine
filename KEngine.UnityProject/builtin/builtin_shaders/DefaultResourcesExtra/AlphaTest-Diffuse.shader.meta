@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4caeab621464663418395f7652cb7af0
+timeCreated: 1524828792
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/alphatest-diffuse.shader.assetbundle
+  assetBundleVariant: 

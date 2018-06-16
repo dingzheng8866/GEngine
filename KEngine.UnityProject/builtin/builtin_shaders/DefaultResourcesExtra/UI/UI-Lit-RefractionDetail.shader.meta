@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 3bda60887df4bdf40a68b5dce28b0478
+timeCreated: 1524828784
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/ui/ui-lit-refractiondetail.shader.assetbundle
+  assetBundleVariant: 

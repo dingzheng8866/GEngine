@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 32cfb1e381ef2a245bec511f5e17568a
+timeCreated: 1524828782
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/terrainshaders/details/wavinggrass.shader.assetbundle
+  assetBundleVariant: 

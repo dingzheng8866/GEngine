@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 34f7e66a1a022634981db1693b3e023b
+timeCreated: 1524828783
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/alphatest-vertexlit.shader.assetbundle
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: dc67dc8c49a61ad4b8d3ea317162cf06
+timeCreated: 1524828850
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/terrainshaders/trees/billboardtree.shader.assetbundle
+  assetBundleVariant: 

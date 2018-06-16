@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 012c928dd9f5f7843a44937030e0ee72
+timeCreated: 1524828768
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/ui/ui-unlit-detail.shader.assetbundle
+  assetBundleVariant: 

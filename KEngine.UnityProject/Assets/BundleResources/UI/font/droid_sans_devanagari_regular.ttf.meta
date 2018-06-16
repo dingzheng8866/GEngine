@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 38196123969dd28479e0f770281bb79f
+timeCreated: 1521429444
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Droid Sans Devanagari
+  fontNames:
+  - Droid Sans Devanagari
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: ui/font/droid_sans_devanagari_regular.ttf.assetbundle
+  assetBundleVariant: 

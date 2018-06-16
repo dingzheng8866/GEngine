@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ad78be402f5e6a1488a470777546eb1f
+timeCreated: 1524828819
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/alpha-vertexlit.shader.assetbundle
+  assetBundleVariant: 

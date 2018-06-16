@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 0c85af51747e16a4381b48133aafd0d4
+timeCreated: 1524828771
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/reflect-glossy.shader.assetbundle
+  assetBundleVariant: 

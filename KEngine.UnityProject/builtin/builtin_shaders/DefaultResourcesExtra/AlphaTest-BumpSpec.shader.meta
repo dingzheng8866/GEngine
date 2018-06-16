@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 92045ae709c613646b82f7f3bbaf901e
+timeCreated: 1524828809
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/alphatest-bumpspec.shader.assetbundle
+  assetBundleVariant: 

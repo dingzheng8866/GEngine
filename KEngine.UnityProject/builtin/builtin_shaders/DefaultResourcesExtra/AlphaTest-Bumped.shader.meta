@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 29e04b61830492e4dab36e8353accfe6
+timeCreated: 1524828778
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/alphatest-bumped.shader.assetbundle
+  assetBundleVariant: 

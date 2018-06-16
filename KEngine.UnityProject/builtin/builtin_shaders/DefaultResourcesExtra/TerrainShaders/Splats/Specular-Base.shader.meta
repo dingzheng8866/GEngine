@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: f65f1736947801f4680aa3e9ef21d4b2
+timeCreated: 1524828855
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/terrainshaders/splats/specular-base.shader.assetbundle
+  assetBundleVariant: 

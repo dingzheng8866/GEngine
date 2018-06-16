@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b41dac34e71682b409c7f6c07702e976
+timeCreated: 1524828820
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/mobile/mobile-particle-alpha-vertexlit.shader.assetbundle
+  assetBundleVariant: 

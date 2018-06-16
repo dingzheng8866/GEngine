@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: aa5293a90467a014eb9a856d748824ee
+timeCreated: 1524828817
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/lightmap-glossy.shader.assetbundle
+  assetBundleVariant: 

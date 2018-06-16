@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 123406f2715912c458000b68964227bb
+timeCreated: 1524828773
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/reflect-diffuse.shader.assetbundle
+  assetBundleVariant: 

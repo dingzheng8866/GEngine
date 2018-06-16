@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ff6f715a6ab5dcd4280062240f8e433e
+timeCreated: 1524828865
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/mobile/mobile-particle-multiply.shader.assetbundle
+  assetBundleVariant: 

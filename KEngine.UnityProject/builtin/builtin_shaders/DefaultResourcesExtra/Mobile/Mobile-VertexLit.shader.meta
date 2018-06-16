@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: f87953659cf0be24bb321b623bc79a66
+timeCreated: 1524828861
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/mobile/mobile-vertexlit.shader.assetbundle
+  assetBundleVariant: 

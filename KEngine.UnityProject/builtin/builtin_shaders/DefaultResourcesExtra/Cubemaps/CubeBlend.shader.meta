@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 288989892ae602c40bfa39e546d430a6
+timeCreated: 1524828777
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/cubemaps/cubeblend.shader.assetbundle
+  assetBundleVariant: 

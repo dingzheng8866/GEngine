@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: fbe5f3e7964ad394f9e0757c03ca8bce
+timeCreated: 1524828864
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/terrainshaders/splats/specular-firstpass.shader.assetbundle
+  assetBundleVariant: 

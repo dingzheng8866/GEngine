@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8cafd1806d627df448157e1c68b57e26
+timeCreated: 1521429518
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Droid Sans Fallback
+  fontNames:
+  - Droid Sans Fallback
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: ui/font/droid_sans_fallback.ttf.assetbundle
+  assetBundleVariant: 

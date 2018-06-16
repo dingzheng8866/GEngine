@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 126c45d95f2b1a948ba6fe7e4cec9827
+timeCreated: 1524828773
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/reflect-bumpnolight.shader.assetbundle
+  assetBundleVariant: 

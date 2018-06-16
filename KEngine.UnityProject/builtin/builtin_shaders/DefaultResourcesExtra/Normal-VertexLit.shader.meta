@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 0423c2b28cd14634296b5917821f1aed
+timeCreated: 1524828771
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/normal-vertexlit.shader.assetbundle
+  assetBundleVariant: 

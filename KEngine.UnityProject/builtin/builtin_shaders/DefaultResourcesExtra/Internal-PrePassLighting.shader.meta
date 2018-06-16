@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 22f7a277aab243b4ebd526d597cbf919
+timeCreated: 1524828777
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/internal-prepasslighting.shader.assetbundle
+  assetBundleVariant: 

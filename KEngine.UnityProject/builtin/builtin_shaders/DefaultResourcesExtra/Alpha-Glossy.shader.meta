@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ff57ace691da246438635421eeacbd57
+timeCreated: 1524828865
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/alpha-glossy.shader.assetbundle
+  assetBundleVariant: 

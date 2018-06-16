@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a1163f3d1d460214a93571dbd9c68ec4
+timeCreated: 1524828814
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/nature/softocclusion/treesoftocclusionleavesrendertex.shader.assetbundle
+  assetBundleVariant: 

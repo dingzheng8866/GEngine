@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b4c219e47dcc5f74bb4003a2838dbd65
+timeCreated: 1524828820
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/internal-guitextureblit.shader.assetbundle
+  assetBundleVariant: 

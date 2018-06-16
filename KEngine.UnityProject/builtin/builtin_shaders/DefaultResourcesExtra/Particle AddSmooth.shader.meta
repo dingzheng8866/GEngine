@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b3cac22b0cc8c3849adfca3c4ba5c04a
+timeCreated: 1524828820
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/particle addsmooth.shader.assetbundle
+  assetBundleVariant: 

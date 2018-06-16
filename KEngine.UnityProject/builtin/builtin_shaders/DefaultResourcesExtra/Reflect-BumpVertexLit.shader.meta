@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4783e059eaababc42ac924e568c471d5
+timeCreated: 1524828789
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/reflect-bumpvertexlit.shader.assetbundle
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 355724a27374c06499464fc8575e456e
+timeCreated: 1524828783
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/lightmap-vertexlit.shader.assetbundle
+  assetBundleVariant: 

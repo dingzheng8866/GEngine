@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 5cce2c29c56a1794e9419c64335e1360
+timeCreated: 1524828799
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/nature/softocclusion/treesoftocclusionbarkrendertex.shader.assetbundle
+  assetBundleVariant: 

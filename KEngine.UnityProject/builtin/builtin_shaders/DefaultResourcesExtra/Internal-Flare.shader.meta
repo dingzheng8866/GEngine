@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 7e6fa722f2e7fdd4f9594136963af7fc
+timeCreated: 1524828805
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/internal-flare.shader.assetbundle
+  assetBundleVariant: 

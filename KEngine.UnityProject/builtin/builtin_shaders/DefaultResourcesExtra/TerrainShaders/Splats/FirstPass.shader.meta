@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 460f638b78093db47b45a0f7b9b88cfb
+timeCreated: 1524828789
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/terrainshaders/splats/firstpass.shader.assetbundle
+  assetBundleVariant: 

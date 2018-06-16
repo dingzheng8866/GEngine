@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ebdbc636f2195814da12e52dc59811c7
+timeCreated: 1524828853
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresources/internal-colored.shader.assetbundle
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 830999a17e8bb534689e1c8af804a2be
+timeCreated: 1524828806
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresources/internal-errorshader.shader.assetbundle
+  assetBundleVariant: 

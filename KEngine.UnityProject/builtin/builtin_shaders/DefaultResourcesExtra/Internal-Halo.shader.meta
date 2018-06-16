@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 419c45bea2be38748b8ed8a0dcdd1c24
+timeCreated: 1524828785
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/internal-halo.shader.assetbundle
+  assetBundleVariant: 

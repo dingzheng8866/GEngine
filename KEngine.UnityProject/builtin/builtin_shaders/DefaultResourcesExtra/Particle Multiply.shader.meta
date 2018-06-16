@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 49a5ffb5bc9a7bd4ea3ddee4866fcd0b
+timeCreated: 1524828790
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/particle multiply.shader.assetbundle
+  assetBundleVariant: 

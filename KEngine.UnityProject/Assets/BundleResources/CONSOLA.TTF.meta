@@ -1,17 +1,21 @@
 fileFormatVersion: 2
 guid: b1671af9dda8ea640a906e655748738e
 TrueTypeFontImporter:
-  serializedVersion: 3
+  externalObjects: {}
+  serializedVersion: 4
   fontSize: 16
   forceTextureCase: -2
-  characterSpacing: 1
-  characterPadding: 0
+  characterSpacing: 0
+  characterPadding: 1
   includeFontData: 1
-  fontNames: []
+  fontName: Consolas
+  fontNames:
+  - Consolas
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
   userData: 
-  assetBundleName: consola.ttf.bytes
+  assetBundleName: consola.ttf.assetbundle
   assetBundleVariant: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 2e600ead5837be84fac1f5145e946b40
+timeCreated: 1524828780
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/mobile/mobile-diffuse.shader.assetbundle
+  assetBundleVariant: 

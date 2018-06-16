@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 04d9144396d7873418be24ee4ffdc63f
+timeCreated: 1524828771
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/lightmap-bumpspec.shader.assetbundle
+  assetBundleVariant: 

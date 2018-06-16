@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b99f7608998e6144aa82e24a84a862ef
+timeCreated: 1524828823
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/normal-bumpspec.shader.assetbundle
+  assetBundleVariant: 

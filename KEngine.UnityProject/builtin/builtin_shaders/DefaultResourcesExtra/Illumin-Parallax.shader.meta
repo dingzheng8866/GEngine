@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a7fc9d560c9d6c74e9058f78f6076c5f
+timeCreated: 1524828816
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/illumin-parallax.shader.assetbundle
+  assetBundleVariant: 

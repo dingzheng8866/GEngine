@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 30d66cc685de67b4db45ceaefd1a4354
+timeCreated: 1524828781
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/standard.shader.assetbundle
+  assetBundleVariant: 

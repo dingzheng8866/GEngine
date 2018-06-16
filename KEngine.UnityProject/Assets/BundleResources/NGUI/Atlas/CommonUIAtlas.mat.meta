@@ -1,6 +1,8 @@
 fileFormatVersion: 2
 guid: aae11c35f37ee744baaacac45803edf5
 NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
   userData: 
-  assetBundleName: ngui/atlas/commonuiatlas.mat.bytes
+  assetBundleName: ngui/atlas/commonuiatlas.mat.assetbundle
   assetBundleVariant: 

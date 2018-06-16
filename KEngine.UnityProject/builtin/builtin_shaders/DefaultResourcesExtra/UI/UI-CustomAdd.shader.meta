@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 76ed9b6ec0a388849a29045707cc56fb
+timeCreated: 1524828805
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/ui/ui-customadd.shader.assetbundle
+  assetBundleVariant: 

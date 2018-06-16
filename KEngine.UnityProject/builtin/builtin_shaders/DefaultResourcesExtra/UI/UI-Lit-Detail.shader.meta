@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 12ddc84091a88c84b93faaa5e771d8bd
+timeCreated: 1524828775
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/ui/ui-lit-detail.shader.assetbundle
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: dd2296ceffb6e2349bc4ca3790f0291c
+timeCreated: 1524828851
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/illumin-diffuse.shader.assetbundle
+  assetBundleVariant: 

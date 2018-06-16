@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 84b4554d349ba7d4984f50e1d51aa9c2
+timeCreated: 1524828807
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/normal-parallax.shader.assetbundle
+  assetBundleVariant: 

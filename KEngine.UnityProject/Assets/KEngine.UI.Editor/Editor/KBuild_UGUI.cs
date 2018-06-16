@@ -53,12 +53,12 @@ namespace KEngine.Editor
 #endif
         static KUGUIBuilder()
         {
-            KUnityEditorEventCatcher.OnWillPlayEvent -= OnWillPlayEvent;
-            KUnityEditorEventCatcher.OnWillPlayEvent += OnWillPlayEvent;
-            KUnityEditorEventCatcher.OnSaveSceneEvent -= OnSaveScene;
-            KUnityEditorEventCatcher.OnSaveSceneEvent += OnSaveScene;
-            KUnityEditorEventCatcher.OnBeforeBuildPlayerEvent -= OnBeforeBuildPlayerEvent;
-            KUnityEditorEventCatcher.OnBeforeBuildPlayerEvent += OnBeforeBuildPlayerEvent;
+            //KUnityEditorEventCatcher.OnWillPlayEvent -= OnWillPlayEvent;
+            //KUnityEditorEventCatcher.OnWillPlayEvent += OnWillPlayEvent;
+            //KUnityEditorEventCatcher.OnSaveSceneEvent -= OnSaveScene;
+            //KUnityEditorEventCatcher.OnSaveSceneEvent += OnSaveScene;
+            //KUnityEditorEventCatcher.OnBeforeBuildPlayerEvent -= OnBeforeBuildPlayerEvent;
+            //KUnityEditorEventCatcher.OnBeforeBuildPlayerEvent += OnBeforeBuildPlayerEvent;
         }
 
         private static void OnSaveScene()

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 48aedb38c2df1c54988eed5b9c76d4d3
+timeCreated: 1524828790
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/alpha-diffuse.shader.assetbundle
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: bb91f4835ad7c0444b66cdf683b51e01
+timeCreated: 1524828824
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/cubemaps/cubeblurodd.shader.assetbundle
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c97ca51934fbeb44d90263914e32e8cc
+timeCreated: 1524828827
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/standardspecular.shader.assetbundle
+  assetBundleVariant: 

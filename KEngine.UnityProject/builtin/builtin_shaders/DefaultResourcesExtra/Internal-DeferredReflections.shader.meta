@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 57dac288fb24112409d54f8cd4dd7ef1
+timeCreated: 1524828797
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/internal-deferredreflections.shader.assetbundle
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 5b5971af941f96e43846bfb86aa1c91d
+timeCreated: 1524828799
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/ui/ui-lit-bumped.shader.assetbundle
+  assetBundleVariant: 

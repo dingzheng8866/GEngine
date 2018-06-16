@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 3ea9398361a3ebb43a49b740a14d3d8f
+timeCreated: 1524828785
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/illumin-vertexlit.shader.assetbundle
+  assetBundleVariant: 

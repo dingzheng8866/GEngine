@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: bee68941a07499240bd5278c6f8b82f3
+timeCreated: 1524828825
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/particle alpha blend.shader.assetbundle
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e543211cb820131439887e056b862b1f
+timeCreated: 1524828852
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/mobile/mobile-bumpspec.shader.assetbundle
+  assetBundleVariant: 

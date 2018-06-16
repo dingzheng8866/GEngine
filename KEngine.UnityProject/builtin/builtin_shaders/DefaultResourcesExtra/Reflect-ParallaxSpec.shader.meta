@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9bd2cbd5dadd94648922178e066ae733
+timeCreated: 1524828813
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/reflect-parallaxspec.shader.assetbundle
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9522fa275e5fbf84db9a3140fb016e89
+timeCreated: 1524828810
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/internal-motionvectors.shader.assetbundle
+  assetBundleVariant: 

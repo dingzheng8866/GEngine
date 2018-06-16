@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e8b22e4bd4a5cbb4f814f35a92c8b275
+timeCreated: 1524828853
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/alpha-bumped.shader.assetbundle
+  assetBundleVariant: 

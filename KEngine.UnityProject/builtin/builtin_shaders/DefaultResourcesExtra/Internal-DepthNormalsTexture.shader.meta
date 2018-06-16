@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 33f5891799a77294686e20cddebaca6d
+timeCreated: 1524828782
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/internal-depthnormalstexture.shader.assetbundle
+  assetBundleVariant: 

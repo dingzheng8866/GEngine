@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ac72cb0d8afcfdd40afc602acab47c8f
+timeCreated: 1524828817
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/mobile/mobile-particle-add.shader.assetbundle
+  assetBundleVariant: 

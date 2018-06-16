@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 0ff5df8cc52e92e47a32e1771a44a715
+timeCreated: 1524828772
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/unlit/unlit-alphatest.shader.assetbundle
+  assetBundleVariant: 

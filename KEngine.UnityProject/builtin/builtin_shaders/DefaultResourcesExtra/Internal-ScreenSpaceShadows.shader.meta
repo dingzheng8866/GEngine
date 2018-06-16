@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ff269c2d4d9e66b4f90e15e0f003e681
+timeCreated: 1524828864
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/internal-screenspaceshadows.shader.assetbundle
+  assetBundleVariant: 

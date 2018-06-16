@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6784471271332df4e91f215d7da0aa01
+timeCreated: 1521429444
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Noto Naskh Arabic
+  fontNames:
+  - Noto Naskh Arabic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: ui/font/notonaskharabic-bold.ttf.assetbundle
+  assetBundleVariant: 

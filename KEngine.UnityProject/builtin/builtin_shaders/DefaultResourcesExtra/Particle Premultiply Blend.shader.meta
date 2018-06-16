@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 117afe7fd5d276d46ba2a55258e11a96
+timeCreated: 1524828772
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/particle premultiply
+    blend.shader.assetbundle
+  assetBundleVariant: 

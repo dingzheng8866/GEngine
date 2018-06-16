@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 3776aa61a720ac14cbcc03304b2c2452
+timeCreated: 1524828783
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/nature/treecreator/treecreatorleavesfastoptimized.shader.assetbundle
+  assetBundleVariant: 

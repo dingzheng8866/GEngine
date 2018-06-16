@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 5a35b0ce92bd4bb4ab13acd685af8a5f
+timeCreated: 1524828798
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/alpha-parallaxspec.shader.assetbundle
+  assetBundleVariant: 

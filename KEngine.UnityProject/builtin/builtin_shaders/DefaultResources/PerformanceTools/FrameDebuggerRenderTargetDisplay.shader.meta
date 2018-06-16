@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b324281a7097ef9448ec9114497c698c
+timeCreated: 1524828820
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresources/performancetools/framedebuggerrendertargetdisplay.shader.assetbundle
+  assetBundleVariant: 

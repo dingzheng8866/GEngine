@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: f45149554cf680f4196151382570237e
+timeCreated: 1524828854
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/alphatest-softedgeunlit.shader.assetbundle
+  assetBundleVariant: 

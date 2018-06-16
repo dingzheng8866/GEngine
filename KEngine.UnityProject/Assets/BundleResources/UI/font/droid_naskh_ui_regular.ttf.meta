@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ac0ea319eeea3964f9f464956dd1a004
+timeCreated: 1521429519
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Droid Naskh Shift Alt
+  fontNames:
+  - Droid Naskh Shift Alt
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: ui/font/droid_naskh_ui_regular.ttf.assetbundle
+  assetBundleVariant: 

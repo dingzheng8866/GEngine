@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4df6ecb0a54138b448249c434d9e3fdf
+timeCreated: 1524828792
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/normal-diffusefast.shader.assetbundle
+  assetBundleVariant: 

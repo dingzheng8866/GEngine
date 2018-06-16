@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a2e5bb27c1f17224784b696b1573bfc7
+timeCreated: 1524828816
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/ui/ui-lit-transparent.shader.assetbundle
+  assetBundleVariant: 

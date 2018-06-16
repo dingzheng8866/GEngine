@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 82c08f65e77cfdf4cb9f0a41f019aa0b
+timeCreated: 1524828805
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/mobile/mobile-lightmap-unlit.shader.assetbundle
+  assetBundleVariant: 

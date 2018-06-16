@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c98927883c800574ca2cb90e02b606a4
+timeCreated: 1524828827
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/mobile/mobile-particle-alpha.shader.assetbundle
+  assetBundleVariant: 

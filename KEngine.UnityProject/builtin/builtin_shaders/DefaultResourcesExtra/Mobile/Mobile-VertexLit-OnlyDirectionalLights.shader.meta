@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 1379b7dea0500eb47bd2fd66f0732d78
+timeCreated: 1524828775
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/mobile/mobile-vertexlit-onlydirectionallights.shader.assetbundle
+  assetBundleVariant: 

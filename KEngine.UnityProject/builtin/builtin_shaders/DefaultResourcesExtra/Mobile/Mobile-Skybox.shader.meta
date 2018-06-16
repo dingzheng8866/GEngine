@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 2fdc111a7e419a1428a43525caa0032f
+timeCreated: 1524828780
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/mobile/mobile-skybox.shader.assetbundle
+  assetBundleVariant: 

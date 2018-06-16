@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: cde6b6fdc591acc4290cdf900c85c9bb
+timeCreated: 1524828848
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/terrainshaders/splats/specular-addpass.shader.assetbundle
+  assetBundleVariant: 

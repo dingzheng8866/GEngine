@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9b3e3b211803ffc4cbb0200eac567bb6
+timeCreated: 1524828812
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/reflect-vertexlit.shader.assetbundle
+  assetBundleVariant: 

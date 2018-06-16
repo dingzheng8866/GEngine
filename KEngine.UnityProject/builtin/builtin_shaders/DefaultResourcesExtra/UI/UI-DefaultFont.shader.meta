@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 334b7ec56a8e7d64798ac8a85f92fa99
+timeCreated: 1524828782
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/ui/ui-defaultfont.shader.assetbundle
+  assetBundleVariant: 

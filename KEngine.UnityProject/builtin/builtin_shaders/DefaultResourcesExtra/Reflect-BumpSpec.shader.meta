@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 64b87b6d2aca658458b3bcdede31c0ed
+timeCreated: 1524828803
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/reflect-bumpspec.shader.assetbundle
+  assetBundleVariant: 

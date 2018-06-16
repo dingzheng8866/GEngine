@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: f3f24a4a6aaaef1469da39bfb8ada5c3
+timeCreated: 1524828854
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/normal-glossy.shader.assetbundle
+  assetBundleVariant: 

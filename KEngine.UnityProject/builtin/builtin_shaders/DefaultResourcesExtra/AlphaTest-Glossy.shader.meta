@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4c6e6c12e2cdd2341ae301b8bcbaeedf
+timeCreated: 1524828791
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/alphatest-glossy.shader.assetbundle
+  assetBundleVariant: 

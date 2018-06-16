@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 636c31a1474ebad4bb741668203daaec
+timeCreated: 1524828802
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/lightmap-diffuse.shader.assetbundle
+  assetBundleVariant: 

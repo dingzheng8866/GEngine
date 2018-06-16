@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 2dcf45b398a7ad149b48b2a2dc71cdd6
+timeCreated: 1524828779
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/decal.shader.assetbundle
+  assetBundleVariant: 

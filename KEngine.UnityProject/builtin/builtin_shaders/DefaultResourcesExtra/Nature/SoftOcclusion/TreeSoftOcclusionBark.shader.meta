@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4ad5f7a45bf66b1488c68c401ed9bcb9
+timeCreated: 1524828790
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/nature/softocclusion/treesoftocclusionbark.shader.assetbundle
+  assetBundleVariant: 

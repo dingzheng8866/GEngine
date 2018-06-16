@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 616c8a67a651c4a41b0a68681fcb28ec
+timeCreated: 1524828800
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/terrainshaders/details/wavinggrassbillboard.shader.assetbundle
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: f55afaab0bb2ace46b1395b6fe32d836
+timeCreated: 1524828854
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/skybox-cubed.shader.assetbundle
+  assetBundleVariant: 

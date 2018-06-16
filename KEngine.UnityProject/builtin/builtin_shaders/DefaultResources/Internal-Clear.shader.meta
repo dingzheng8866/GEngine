@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4472ae08054013a418c67e5eaf2dc354
+timeCreated: 1524828785
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresources/internal-clear.shader.assetbundle
+  assetBundleVariant: 

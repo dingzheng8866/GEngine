@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 21b8ee274bc8fb04b893ba65d18f6d6d
+timeCreated: 1524828777
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: builtin/builtin_shaders/defaultresourcesextra/lightmap-bumped.shader.assetbundle
+  assetBundleVariant: 
